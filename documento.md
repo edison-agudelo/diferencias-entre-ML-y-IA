@@ -4,7 +4,7 @@ edison nicolas agudelo martinez
 
 La inteligencia artificial (IA) es un término que engloba diferentes estrategias y técnicas que se usan para hacer que las máquinas se parezcan más a los humanos. La IA incluye todo, desde asistentes inteligentes como Alexa hasta aspiradoras robóticas y vehículos autónomos. El machine learning (ML) es una de las muchas otras ramas de la IA. El machine learning es la ciencia del desarrollo de algoritmos y modelos estadísticos que los sistemas informáticos utilizan para realizar tareas complejas sin instrucciones explícitas. En cambio, los sistemas se basan en patrones e inferencias. Los sistemas de computación utilizan algoritmos de machine learning para procesar grandes cantidades de datos históricos e identificar patrones de datos. Si bien el machine learning es IA, no todas las actividades de IA son machine learning.
 
-¿Cuáles son las similitudes entre la IA y el machine learning?
+##¿Cuáles son las similitudes entre la IA y el machine learning?
 El machine learning (ML) es una rama de la inteligencia artificial (IA) con un enfoque limitado. Sin embargo, ambos campos van más allá de la automatización y la programación básicas para generar resultados basados en análisis de datos complejos.
 
 Resolución de problemas similar a la humana
@@ -52,3 +52,26 @@ Las soluciones de machine learning requieren un conjunto de datos de varios cien
 Otros sistemas inteligentes pueden tener diferentes requisitos de infraestructura, que dependen de la tarea que desee realizar y de la metodología de análisis computacional que utilice. Los casos prácticos de alta computación requieren que varios miles de máquinas trabajen juntas para lograr objetivos complejos.
 
 Sin embargo, es importante tener en cuenta que están disponibles las funciones de IA y ML prediseñadas. Puede integrarlas en su aplicación a través de las API sin necesidad de recursos adicionales.
+
+##Hay diferentes enfoques dentro del ML; entre otros:
+
+Aprendizaje supervisado. El modelo se entrena con datos etiquetados al objeto de que aprenda a predecir etiquetas o resultados.
+Aprendizaje no supervisado. El modelo busca patrones en datos no etiquetados, como agrupación o reducción de dimensionalidad.
+Aprendizaje por refuerzo. El modelo aprende tomando decisiones y recibiendo retroalimentación en forma de recompensas o castigos.
+Diferencias principales
+Alcance. La IA es un término más amplio que incluye cualquier simulación de inteligencia humana, mientras que el ML es específico en el uso de datos y algoritmos para aprender y hacer predicciones o decisiones.
+Métodos. La IA puede utilizar una variedad de métodos, incluyendo pero no limitado a ML. El ML siempre implica el aprendizaje a partir de datos.
+Programación vs. aprendizaje. La IA tradicional puede depender de la programación de reglas específicas, mientras que el ML se basa en la capacidad de aprender y adaptarse a partir de datos.
+
+#Comparativa rápida# 
+
+tipo de aprendizaje         - Tipo de datos	          - Objetivo principal	            - Ejemplos típicos
+Supervisado	                -  Datos etiquetados	    - Predecir etiquetas futuras	    - Diagnóstico, predicción de precios
+No supervisado              -	Datos no etiquetados	  - Descubrir patrones/estructuras	- Clustering, reglas de asociación
+Aprendizaje por refuerzo	  - Interacción con entorno	- Maximizar recompensas	          - Juegos, robótica, RLHF en chatbots
+
+--------------------------------------------------------
+fuentes consultadas 
+https://www.bbva.com/es/innovacion/machine-learning-que-es-y-como-funciona/
+https://aws.amazon.com/es/compare/the-difference-between-artificial-intelligence-and-machine-learning/
+https://1millionbot.com/cual-es-la-diferencia-entre-machine-learning-e-ia/ 
