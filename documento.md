@@ -73,4 +73,4 @@ El ‘machine learning’ es un maestro en el reconocimiento de patrones, así c
 FUENTES CONSULTADAS
 https://www.iberdrola.com/conocenos/nuestro-modelo-innovacion/machine-learning-aprendizaje-automatico
 https://www.ibm.com/mx-es/think/topics/artificial-intelligence
-https://aws.amazon.com/es/what-is/artificial-intelligence/ 
+https://aws.amazon.com/es/what-is/artificial-intelligence
