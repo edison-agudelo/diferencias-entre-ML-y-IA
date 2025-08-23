@@ -79,6 +79,20 @@ Supervisado	                -  Datos etiquetados	    - Predecir etiquetas futura
 No supervisado              -	Datos no etiquetados	  - Descubrir patrones/estructuras	- Clustering, reglas de asociación
 Aprendizaje por refuerzo	  - Interacción con entorno	- Maximizar recompensas	          - Juegos, robótica, RLHF en chatbots
 
+1.
+
+La inteligencia artificial (IA) es un campo amplio que busca dotar a las máquinas de capacidades similares a la inteligencia humana, como aprender, razonar, decidir y adaptarse, mientras que el machine learning (ML) es una de sus ramas más relevantes, centrada en el uso de datos y algoritmos para que las computadoras aprendan de manera autónoma sin ser programadas explícitamente.
+
+2.
+
+El machine learning se fundamenta en el reconocimiento de patrones y el análisis predictivo, lo que lo convierte en una herramienta clave para procesar grandes volúmenes de datos. Esto permite aplicaciones prácticas en diversos sectores como la medicina, la economía, el transporte, la ciberseguridad y el entretenimiento.
+
+3.
+
+La principal diferencia entre IA y ML radica en el alcance: mientras que la IA abarca múltiples técnicas (algoritmos genéticos, redes neuronales, sistemas basados en reglas, etc.), el ML se centra específicamente en modelos de aprendizaje a partir de datos. En otras palabras, todo ML es IA, pero no toda IA es ML.
+
+
+
 --------------------------------------------------------
 fuentes consultadas 
 https://www.bbva.com/es/innovacion/machine-learning-que-es-y-como-funciona/
