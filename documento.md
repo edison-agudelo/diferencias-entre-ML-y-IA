@@ -53,15 +53,23 @@ Otros sistemas inteligentes pueden tener diferentes requisitos de infraestructur
 
 Sin embargo, es importante tener en cuenta que están disponibles las funciones de IA y ML prediseñadas. Puede integrarlas en su aplicación a través de las API sin necesidad de recursos adicionales.
 
-##Hay diferentes enfoques dentro del ML; entre otros:
+##Actualmente se encuentran diferentes tipos de ML
 
-Aprendizaje supervisado. El modelo se entrena con datos etiquetados al objeto de que aprenda a predecir etiquetas o resultados.
-Aprendizaje no supervisado. El modelo busca patrones en datos no etiquetados, como agrupación o reducción de dimensionalidad.
-Aprendizaje por refuerzo. El modelo aprende tomando decisiones y recibiendo retroalimentación en forma de recompensas o castigos.
-Diferencias principales
-Alcance. La IA es un término más amplio que incluye cualquier simulación de inteligencia humana, mientras que el ML es específico en el uso de datos y algoritmos para aprender y hacer predicciones o decisiones.
-Métodos. La IA puede utilizar una variedad de métodos, incluyendo pero no limitado a ML. El ML siempre implica el aprendizaje a partir de datos.
-Programación vs. aprendizaje. La IA tradicional puede depender de la programación de reglas específicas, mientras que el ML se basa en la capacidad de aprender y adaptarse a partir de datos.
+APRENDIZAJE SUPERVISADO:
+este modelo permite analizar diferentes respuestas previamente grabadas las cuales pueden darnos la determinacion del tipo de respuesta que se espera aprendiendo  la relación entre los datos de entrada y la respuesta esperada
+
+tiene dos tipos de aprendizajes supervisados los cuales son regresion y clasificacion
+Regresion: tiene como objetivo la variable continua como lo son por ejemplo la temperatura o los precios de un articulo
+Clasificación: tiene como objetivo una variable que categoriza algun elemento 0/1 como por ejemplo si es spam o no es span correspondiendo a spam el 1 y no spam el 0
+
+APRENDIZAJE NO SUPERVISADO:
+este modelo permite encontrar patrones que puedan aplicarsen a un futuro mediante etiquetas en datos que no existian antes dando asi algun tipo de relacion inherente tambien tiene diferentes tipos de aprendizaje como lo son:
+
+clustering: este permite poder separar algun objetivo de otros segun sean sus caracteristicas 
+Reduccion de dimencionalidad: este se encarga de organizar los datos en el menor espacio posible sin perder su estructura original
+Detecion de anomalias este permite identificar los puntos con baja probabilidad bajo una distribucion estimada
+
+
 
 #Comparativa rápida# 
 
