@@ -91,6 +91,13 @@ El machine learning se fundamenta en el reconocimiento de patrones y el análisi
 
 La principal diferencia entre IA y ML radica en el alcance: mientras que la IA abarca múltiples técnicas (algoritmos genéticos, redes neuronales, sistemas basados en reglas, etc.), el ML se centra específicamente en modelos de aprendizaje a partir de datos. En otras palabras, todo ML es IA, pero no toda IA es ML.
 
+4.
+
+Los diferentes tipos de aprendizaje automático (supervisado, no supervisado y por refuerzo) permiten a los sistemas adaptarse a distintos contextos. Desde predecir precios de viviendas (aprendizaje supervisado), descubrir patrones en clientes (no supervisado), hasta entrenar robots o vehículos autónomos para tomar decisiones en tiempo real (por refuerzo).
+
+5.
+
+Tanto la IA como el ML están transformando la forma en que interactuamos con la tecnología y cómo las empresas operan. Su impacto va más allá de la automatización básica, pues permiten la personalización de experiencias, la optimización de procesos y la toma de decisiones más precisas, consolidándose como pilares de la innovación di
 
 
 --------------------------------------------------------
