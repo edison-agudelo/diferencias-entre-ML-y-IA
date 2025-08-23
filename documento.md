@@ -69,7 +69,8 @@ clustering: este permite poder separar algun objetivo de otros segun sean sus ca
 Reduccion de dimencionalidad: este se encarga de organizar los datos en el menor espacio posible sin perder su estructura original
 Detecion de anomalias este permite identificar los puntos con baja probabilidad bajo una distribucion estimada
 
-
+APRENDIZAJE POR REFUERZO:
+este es un aprendizaje el cual se basa basicamente en la prueba y error mediante esto puede interacturar con el entorno y ver las mejores posibilidades que le den la mejor recompensa un ejemplo claro es los chats con bots debido a que cada vez que cometen un error y puede retroalimentarse es capaz de aprender del mismo para en un futuro no cometer este dicho error
 
 #Comparativa rápida# 
 
